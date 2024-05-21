@@ -1,5 +1,5 @@
 # Recursos-IT
-How to 
+Cómo hacer algunas cosas en el mundo de la informática
 
 ## Linux
 <ul>
